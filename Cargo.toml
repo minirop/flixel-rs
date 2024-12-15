@@ -1,0 +1,9 @@
+[package]
+name = "flixel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+flixel_derive = { path = "flixel_derive" }
+flixel_internal = { path = "flixel_internal" }
+raylib-ffi = "5.5.0"

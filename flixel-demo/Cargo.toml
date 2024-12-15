@@ -1,0 +1,7 @@
+[package]
+name = "flixel-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+flixel = { version = "0.1.0", path = ".." }
